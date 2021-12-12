@@ -13,7 +13,3 @@ for char in encrypted:
         answer += ascii_uppercase[new_index]
 
 print(answer)
-
-
-
-
